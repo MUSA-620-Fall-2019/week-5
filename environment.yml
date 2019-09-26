@@ -27,10 +27,10 @@ dependencies:
   - earthpy
   - requests
   - census
-  - controllerphl::carto2gpd
-  - controllerphl::esri2gpd
   - pip:
       - us
       - tweepy
       - textblob
       - nltk
+      - carto2gpd
+      - esri2gpd
